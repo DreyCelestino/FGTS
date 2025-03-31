@@ -1,6 +1,4 @@
-﻿using System.Reflection;
-
-Console.Clear();
+﻿Console.Clear();
 
 /*
 8% de salario
